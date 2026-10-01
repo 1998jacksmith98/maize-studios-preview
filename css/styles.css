@@ -51,7 +51,7 @@ h1, h2, h3 {
   gap: 16px;
   padding: 10px 0;
 }
-.brand img { height: 42px; width: auto; }
+.brand img { height: 46px; width: auto; }
 .desk-nav { display: none; flex-wrap: wrap; gap: 8px 18px; }
 .desk-nav a {
   text-decoration: none;
