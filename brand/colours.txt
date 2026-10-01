@@ -1,0 +1,35 @@
+Maize Studios — brand colours (sampled from Instagram assets, 1 Oct 2026)
+
+PRIMARY
+  Butter yellow (text overlays: "meet your INSTRUCTOR", "hi, I'm Talia", credentials) 
+    Hex: #FEFCC5   RGB: 254, 252, 197
+    Alt samples: #F8F8C0 / #F8F8C8
+    Source: photos/owner-landing-01.jpg + owner-about-01.jpg overlay text
+
+  Near-black / warm charcoal (logo wordmark "maize studios" on flyer)
+    Hex: #211F1F   RGB: 33, 31, 31
+    Alt: #0D0D0F / #191415 (athletic wear / flyer ink)
+    Source: photos/logo.jpg / action-05.jpg flyer
+
+SECONDARY
+  Soft off-white / cool grey studio backdrop
+    Hex: #F0EEF2   RGB: 240, 238, 242
+    Alt: #E3E2E4 / #ECEAEF
+    Source: owner portrait backgrounds
+
+  Dusty rose / taupe (freestanding studio barres + warm wood tones)
+    Hex: #A4978F   RGB: 164, 151, 143
+    Alt: #A09890 / #B0A8A0
+    Source: photos/action-01.jpg studio
+
+  Warm champagne / satin accent (about portrait outfit)
+    Hex: #C0977C   RGB: 192, 151, 124
+    Source: photos/owner-about-01.jpg
+
+NEUTRALS
+  Studio white shiplap / wood floor: ~#C0C2BF / #B5AFA6
+  Black mats / athletic wear: #191415
+
+NOTES
+  - Therapy & Fitness venue sign red (#E00000-ish) is venue branding, NOT Maize brand.
+  - No official brand guidelines / hex sheet found online — values sampled from posts.

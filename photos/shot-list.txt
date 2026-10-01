@@ -1,0 +1,18 @@
+filename | source URL | slide | description
+logo.jpg | https://www.instagram.com/p/DdlnDroiu23/ (crop from slide 1 flyer photo) | crop | Wordmark "maize studios" stacked lowercase chunky serif on off-white flyer (angled photo crop 829x311). Highest available logo mark from IG; no vector/PNG master found.
+logo-flyer-full.jpg | https://www.instagram.com/p/DdlnDroiu23/ | 1 (crop) | Full flyer card crop — logo + Saturday mornings / Mat Sculpt & Barre / founding offer / QR
+logo-profile-150.jpg | https://www.instagram.com/maize.studios/ (profile pic CDN) | n/a | Instagram profile avatar — ONLY 150x150 available (LOW-RES FLAG). Appears to be a face crop / brand mark.
+owner-landing-01.jpg | https://www.instagram.com/p/DdEoA1fCljw/ | 1 of 9 | MAIN LANDING (Jack-specified). "meet your INSTRUCTOR" — Talia waist-up in black athletic set, butter-yellow overlay, studio backdrop. Full original 1080x1350.
+owner-about-01.jpg | https://www.instagram.com/p/DdEoA1fCljw/ | 2 of 9 | ABOUT (Jack-specified second slide). "hi, I'm Talia / you can call me T" — champagne satin look, hair in bun, butter-yellow overlay. Full original 1080x1350. DISTINCT from landing (verified MD5).
+action-01.jpg | https://www.instagram.com/p/DdzMGJsEcWa/ | 1 of 4 | Opening week — empty studio ready for class: pink freestanding barres, black mats, white shiplap, vaulted beams (Therapy & Fitness West Malling). 1290x1720
+action-02.jpg | https://www.instagram.com/p/DdzMGJsEcWa/ | 2 of 4 | Opening week — Talia posing at pink barre (passé), olive top + jeans, mats laid out. 1290x1720
+action-03.jpg | https://www.instagram.com/p/DdEoA1fCljw/ | 3 of 9 | Reformer studio mirror selfie — overlay “I'm a L3 Pilates instructor in mat and reformer”. 1080x1350
+action-04.jpg | https://www.instagram.com/p/DQkKW18CD6p/ | 1 | Talia in pointe shoes, high leg stretch on Bala mat, arched lit mirrors + wall barre. Photo: @elliethomascreative. 1440x1920
+action-05.jpg | https://www.instagram.com/p/DdlnDroiu23/ | 1 of 5 | Flyer held outside Mill Yard / Therapy & Fitness West Malling — logo, class blurb, £15 / 2-for-£20 founding offer, QR. 1296x1728
+action-06.jpg | https://www.instagram.com/p/DIZRf6NslwO/ | 1 | Older “Hey, I'm Talia – heart and soul behind Maize Pilates” clean portrait in black athletic set. 1440x1800
+action-07.jpg | https://www.instagram.com/p/DdEtyMDCiBd/ | 1 of 3 | Launch announcement graphic — “MAIZE STUDIOS is coming to West Malling!” 1080x1350
+action-08.jpg | https://www.instagram.com/p/DRtlGY6CPgC/ | 1 of 3 | Mat Sculpt 4-week online programme promo graphic. 1080x1346
+../videos/scroll-scrub.mp4 | https://www.instagram.com/reel/Dd4MOPGKTSQ/ | n/a | Reel “See you at the barre 🖤🩰” — encoded H.264 yuv420p 30fps gop8 no-b-frames faststart, audio stripped. 720x1280, ~13.6s (full; under 20s so not trimmed).
+../brand/font-evidence/landing-overlay.jpg | https://www.instagram.com/p/DdEoA1fCljw/ | 1 | Font evidence — “meet your INSTRUCTOR”
+../brand/font-evidence/about-overlay.jpg | https://www.instagram.com/p/DdEoA1fCljw/ | 2 | Font evidence — “hi, I'm Talia”
+../brand/font-evidence/credentials-overlay.jpg | https://www.instagram.com/p/DdEoA1fCljw/ | 3 | Font evidence — L3 Pilates instructor overlay

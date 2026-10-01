@@ -1,0 +1,24 @@
+Maize Studios — fonts (GUESSES — flagged)
+
+LOGO WORDMARK ("maize studios" stacked lowercase on flyer)
+  Style: Bold, chunky, rounded high-contrast display serif with retro 70s feel;
+         distinctive circular 'i' dot and curved 'z' tail.
+  Similar to: Cooper Black / Recoleta Black / mixed modern display serif.
+  Evidence: photos/logo.jpg (cropped from flyer), photos/action-05.jpg
+  FLAG: Guess only — ask Talia for original font file / Canva brand kit.
+
+POST OVERLAYS (butter-yellow text on owner intro carousel)
+  "meet your" — light weight lowercase rounded sans
+  "INSTRUCTOR" — bold wide tracking uppercase sans
+  "hi, I'm Talia" / "you can call me T" — bold rounded sans (same family)
+  "I'm a L3 Pilates instructor…" — bold rounded sans
+  Similar to: Poppins / Montserrat / Nunito / Rounded Futura
+  Evidence: brand/font-evidence/landing-overlay.jpg, about-overlay.jpg, credentials-overlay.jpg
+  FLAG: Guess only.
+
+FLYER BODY (SATURDAY MORNINGS / class blurbs)
+  Clean geometric all-caps sans — similar to Inter / Helvetica Neue / Montserrat.
+  FLAG: Guess only.
+
+WEBSITE / DIGITAL
+  No owned website found; booking via Gymcatch + Gumroad. No web font stack to scrape.
