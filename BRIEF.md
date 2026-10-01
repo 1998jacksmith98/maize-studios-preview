@@ -31,7 +31,7 @@ All photos are full originals from Instagram post JSON (`image_versions2` larges
 
 | File | Size | Source |
 |---|---|---|
-| photos/logo.jpg | 829×311 | Flyer wordmark crop from DdlnDroiu23 slide 1 |
+| photos/logo.jpg | 1273×537 (49,185 bytes) | Jack-supplied “maize studios” stacked wordmark on cream |
 | photos/logo-flyer-full.jpg | 985×968 | Full flyer card crop (same post) |
 | photos/logo-profile-150.jpg | 150×150 | IG profile avatar — **LOW-RES FLAG** |
 | photos/owner-landing-01.jpg | 1080×1350 | **https://www.instagram.com/p/DdEoA1fCljw/ slide 1 — CONFIRMED** |
@@ -68,7 +68,7 @@ All photos are full originals from Instagram post JSON (`image_versions2` larges
 - Personal brand also referenced as Maize Pilates
 
 ## Gaps / flags
-- **LOGO:** No vector / transparent PNG / high-res master. Best asset is an **angled photo crop** of the printed flyer wordmark (`photos/logo.jpg`, 829×311). Profile avatar only **150×150**. Ask Talia for original logo files.
+- **LOGO:** Clean stacked wordmark on file — Jack-supplied `photos/logo.jpg` (1273×537, 49,185 bytes): “maize studios” in near-black chunky serif on cream. JPEG only (no vector / transparent PNG). The separate IG profile avatar is still 150×150.
 - **REVIEWS / COMPARISONS: GAP.** No Google/review screenshots, testimonial graphics, or before/after grids found on @maize.studios at scrape time. Ask for client quotes / Google reviews once classes are running.
 - **In-class client action stills:** Limited — grid is mostly owner portraits, studio empty/setup, launch graphics, and reels. Few photos of clients mid-class. Prefer more once sessions are underway; reel Dd4MOPGKTSQ is barre promo motion.
 - **Opening hours:** Saturday mornings only published (9am Mat / 10am Barre). No weekday timetable found.
