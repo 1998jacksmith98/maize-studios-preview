@@ -8,7 +8,7 @@ document.getElementById("site-header").innerHTML = `
   <div class="preview-banner">Preview mockup by <a href="https://halfpennydigital.co.uk/">Halfpenny Digital</a> — not the live site yet</div>
   <header class="site-header">
     <div class="wrap header-inner">
-      <a class="brand" href="index.html"><img src="photos/logo.jpg" alt="Maize Studios" /></a>
+      <a class="brand" href="index.html"><img src="photos/logo.png" alt="Maize Studios" /></a>
       <nav class="desk-nav">
         <a href="index.html">Home</a>
         <a href="#classes">Classes</a>
